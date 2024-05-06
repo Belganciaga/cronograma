@@ -12,7 +12,7 @@ buttons.forEach((button, index) => {
                                         <p>10:30 - Estudar</p>
                                         <p>11:30 - Se arrumar para o trabalho</p>
                                         <p>12:30 - Primeiro onibus</p>
-                                        <p>13:05 - Segundo onibus</p>;
+                                        <p>13:05 - Segundo onibus</p>
                                         <p>14:00 - Trabalho</p>
                                         <p>22:00 - Ir para casa</p>`
                 break;
@@ -29,8 +29,8 @@ buttons.forEach((button, index) => {
                                         <p>8:00 - Pegar carona com Aline</p>
                                         <p>9:00 - Faculdade</p>
                                         <p>11:40 - Fim da aula/Estudar</p>
-                                        <p>13:00 - pegar onibus</p>;
-                                        <p>14:00 - Trabalhar</p>;
+                                        <p>13:00 - pegar onibus</p>
+                                        <p>14:00 - Trabalhar</p>
                                         <p>22:00 - Ir para casa</p>`;
                 break;
             case 3:
@@ -38,8 +38,8 @@ buttons.forEach((button, index) => {
                                         <p>8:00 - Pegar carona com Aline</p>
                                         <p>9:00 - Faculdade</p>
                                         <p>11:40 - Fim da aula/Estudar</p>
-                                        <p>13:00 - pegar onibus</p>;
-                                        <p>14:00 - Trabalhar</p>;
+                                        <p>13:00 - pegar onibus</p>
+                                        <p>14:00 - Trabalhar</p>
                                         <p>22:00 - Ir para casa</p>`;
                 break;
             case 4:
@@ -48,7 +48,7 @@ buttons.forEach((button, index) => {
                                         <p>10:30 - Estudar</p>
                                         <p>11:30 - Se arrumar para o trabalho</p>
                                         <p>12:30 - Primeiro onibus</p>
-                                        <p>13:05 - Segundo onibus</p>;
+                                        <p>13:05 - Segundo onibus</p>
                                         <p>14:00 - Trabalho</p>
                                         <p>22:00 - Ir para casa</p>`
                 break;
